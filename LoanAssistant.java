@@ -1,5 +1,5 @@
-# LoanAssistant
-package loanassistant;
+//# LoanAssistant
+//package loanassistant;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
